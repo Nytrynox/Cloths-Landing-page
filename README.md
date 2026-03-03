@@ -1,18 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=d2a8ff&height=220&section=header&text=Cloths%20Landing%20page&fontSize=42&fontAlignY=35&desc=Web%20Application&descAlignY=55&fontColor=ffffff" alt="Header"/>
+![Header](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDgwMCAyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzEyMDAyNCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iIzFhMDAzNiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMyNDAwNGQiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8ZmlsdGVyIGlkPSJnbG93Ij4KICAgICAgPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iNCIgcmVzdWx0PSJiIi8+CiAgICAgIDxmZUNvbXBvc2l0ZSBpbj0iU291cmNlR3JhcGhpYyIgaW4yPSJiIiBvcGVyYXRvcj0ib3ZlciIvPgogICAgPC9maWx0ZXI+CiAgICA8ZmlsdGVyIGlkPSJnbG93MiI+CiAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjgiIHJlc3VsdD0iYiIvPgogICAgICA8ZmVDb21wb3NpdGUgaW49IlNvdXJjZUdyYXBoaWMiIGluMj0iYiIgb3BlcmF0b3I9Im92ZXIiLz4KICAgIDwvZmlsdGVyPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ1cmwoI2JnKSIgcng9IjEyIi8+CiAgCiAgPCEtLSBHcmlkIGxpbmVzIC0tPgogIDxsaW5lIHgxPSIwIiB5MT0iNTAiIHgyPSI4MDAiIHkyPSI1MCIgc3Ryb2tlPSIjZDJhOGZmIiBvcGFjaXR5PSIwLjA1IiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iMCIgeTE9IjEwMCIgeDI9IjgwMCIgeTI9IjEwMCIgc3Ryb2tlPSIjZDJhOGZmIiBvcGFjaXR5PSIwLjA1IiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iMCIgeTE9IjE1MCIgeDI9IjgwMCIgeTI9IjE1MCIgc3Ryb2tlPSIjZDJhOGZmIiBvcGFjaXR5PSIwLjA1IiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iMjAwIiB5MT0iMCIgeDI9IjIwMCIgeTI9IjIwMCIgc3Ryb2tlPSIjZDJhOGZmIiBvcGFjaXR5PSIwLjA1IiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iMCIgeDI9IjQwMCIgeTI9IjIwMCIgc3Ryb2tlPSIjZDJhOGZmIiBvcGFjaXR5PSIwLjA1IiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNjAwIiB5MT0iMCIgeDI9IjYwMCIgeTI9IjIwMCIgc3Ryb2tlPSIjZDJhOGZmIiBvcGFjaXR5PSIwLjA1IiBzdHJva2Utd2lkdGg9IjEiLz4KICAKICAKICA8Y2lyY2xlIGN4PSIxODAiIGN5PSIzMCIgcj0iMiIgZmlsbD0iI2QyYThmZiIgb3BhY2l0eT0iMC42Ij4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImN4IiB2YWx1ZXM9IjE4MDsgNjIwOyAxODAiIGR1cj0iNnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAvPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjM7IDAuOTsgMC4zIiBkdXI9IjdzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz4KICA8L2NpcmNsZT4KICA8Y2lyY2xlIGN4PSIxMDAiIGN5PSI1NSIgcj0iMyIgZmlsbD0iI2QyYThmZiIgb3BhY2l0eT0iMC42Ij4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImN4IiB2YWx1ZXM9IjEwMDsgNzAwOyAxMDAiIGR1cj0iNHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAvPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjM7IDAuOTsgMC4zIiBkdXI9IjVzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz4KICA8L2NpcmNsZT4KICA8Y2lyY2xlIGN4PSIxMDAiIGN5PSI4MCIgcj0iNCIgZmlsbD0iI2QyYThmZiIgb3BhY2l0eT0iMC42Ij4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImN4IiB2YWx1ZXM9IjEwMDsgNzAwOyAxMDAiIGR1cj0iNHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAvPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjM7IDAuOTsgMC4zIiBkdXI9IjVzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz4KICA8L2NpcmNsZT4KICA8Y2lyY2xlIGN4PSI3MDAiIGN5PSIxMDUiIHI9IjIiIGZpbGw9IiNkMmE4ZmYiIG9wYWNpdHk9IjAuNiI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJjeCIgdmFsdWVzPSI3MDA7IDEwMDsgNzAwIiBkdXI9IjRzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMC4zOyAwLjk7IDAuMyIgZHVyPSI1cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIC8+CiAgPC9jaXJjbGU+CiAgPGNpcmNsZSBjeD0iNzAwIiBjeT0iMTMwIiByPSIzIiBmaWxsPSIjZDJhOGZmIiBvcGFjaXR5PSIwLjYiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iY3giIHZhbHVlcz0iNzAwOyAxMDA7IDcwMCIgZHVyPSI0cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIC8+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjAuMzsgMC45OyAwLjMiIGR1cj0iNXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAvPgogIDwvY2lyY2xlPgogIDxjaXJjbGUgY3g9IjQyMCIgY3k9IjE1NSIgcj0iNCIgZmlsbD0iI2QyYThmZiIgb3BhY2l0eT0iMC42Ij4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImN4IiB2YWx1ZXM9IjQyMDsgMzgwOyA0MjAiIGR1cj0iNHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAvPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjM7IDAuOTsgMC4zIiBkdXI9IjVzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz4KICA8L2NpcmNsZT4KICAKICA8IS0tIFNjYW5uaW5nIGxpbmUgLS0+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIzIiBmaWxsPSIjZDJhOGZmIiBvcGFjaXR5PSIwLjMiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ieSIgdmFsdWVzPSIwOyAyMDA7IDAiIGR1cj0iNnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9yZWN0PgogIAogIDx0ZXh0IHg9IjUwJSIgeT0iNDIlIiBmb250LWZhbWlseT0iQXJpYWwsc2Fucy1zZXJpZiIgZm9udC13ZWlnaHQ9ImJvbGQiIGZvbnQtc2l6ZT0iMzgiIGZpbGw9IiNkMmE4ZmYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbHRlcj0idXJsKCNnbG93KSIgc3R5bGU9ImxldHRlci1zcGFjaW5nOjRweCI+CiAgICBDTE9USFMgTEFORElORyBQQUdFCiAgPC90ZXh0PgogIDx0ZXh0IHg9IjUwJSIgeT0iNjIlIiBmb250LWZhbWlseT0iQXJpYWwsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMyIgZmlsbD0iI2IzODhmZiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgc3R5bGU9ImxldHRlci1zcGFjaW5nOjNweDtvcGFjaXR5OjAuOCI+CiAgICBQUk9QUklFVEFSWSBKQVZBU0NSSVBUIEFSQ0hJVEVDVFVSRQogIDwvdGV4dD4KICAKICA8IS0tIEJvdHRvbSBhY2NlbnQgbGluZSAtLT4KICA8bGluZSB4MT0iMjUwIiB5MT0iMTc1IiB4Mj0iNTUwIiB5Mj0iMTc1IiBzdHJva2U9IiNkMmE4ZmYiIHN0cm9rZS13aWR0aD0iMiIgZmlsdGVyPSJ1cmwoI2dsb3cpIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9IngxIiB2YWx1ZXM9IjI1MDszMDA7MjUwIiBkdXI9IjNzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ieDIiIHZhbHVlcz0iNTUwOzUwMDs1NTAiIGR1cj0iM3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9saW5lPgo8L3N2Zz4=)
+
+<br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Type-Web%20Application-d2a8ff?style=for-the-badge&logo=target&logoColor=black" alt="Type" />
-  <img src="https://img.shields.io/badge/Language-JavaScript-d2a8ff?style=for-the-badge&logo=code&logoColor=black" alt="Language" />
-  <img src="https://img.shields.io/badge/Files-24-161b22?style=for-the-badge&logo=files&logoColor=d2a8ff" alt="Files" />
-  <img src="https://img.shields.io/badge/License-PROPRIETARY-ff0000?style=for-the-badge&logo=shield&logoColor=white" alt="License" />
+  <img src="https://img.shields.io/badge/Web%20Application-d2a8ff?style=for-the-badge&logo=target&logoColor=black" alt="Type" />
+  <img src="https://img.shields.io/badge/JavaScript-d2a8ff?style=for-the-badge&logo=code&logoColor=black" alt="Lang" />
+  <img src="https://img.shields.io/badge/24%20Files-1a0036?style=for-the-badge&logo=files&logoColor=d2a8ff" alt="Files" />
+  <img src="https://img.shields.io/badge/PROPRIETARY-ff0000?style=for-the-badge&logo=shield&logoColor=white" alt="License" />
 </p>
 
-  <img src="https://img.shields.io/badge/Vite-161b22?style=flat-square&logo=vite&logoColor=d2a8ff" alt="Vite" />
-  <img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=d2a8ff" alt="React" />
-  <img src="https://img.shields.io/badge/TailwindCSS-161b22?style=flat-square&logo=tailwindcss&logoColor=d2a8ff" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Vite-1a0036?style=flat-square&logo=vite&logoColor=d2a8ff" alt="Vite" />
+  <img src="https://img.shields.io/badge/React-1a0036?style=flat-square&logo=react&logoColor=d2a8ff" alt="React" />
+  <img src="https://img.shields.io/badge/TailwindCSS-1a0036?style=flat-square&logo=tailwindcss&logoColor=d2a8ff" alt="TailwindCSS" />
 
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=14&pause=1000&color=D2A8FF&center=true&vCenter=true&width=500&lines=Cloths+Landing+page;Web+Application+Architecture;Proprietary+System+by+Karthik+Idikuda" alt="Typing SVG" />
 
 </div>
 
@@ -22,7 +27,7 @@
 
 > Modern e-commerce frontend with cart and checkout flows.
 
-**Cloths Landing page** is a proprietary web application system engineered by **Karthik Idikuda**. It leverages Vite, React, TailwindCSS for its core functionality.
+**Cloths Landing page** is an advanced web application system engineered by **Karthik Idikuda**. Built with Vite, React, TailwindCSS.
 
 <br/>
 
@@ -30,17 +35,12 @@
 
 ```mermaid
 graph TD;
-    A["Client Browser"] -->|HTTPS| B["React SPA"];
-    B -->|Component Tree| C["Virtual DOM Renderer"];
-    C --> D["TailwindCSS Design System"];
-    B -.->|Dev Server| E["Vite HMR Engine"];
+    A["Browser Client"] -->|"HTTPS"| B["React SPA + Tailwind + Vite HMR"];
+    B -->|"Component Render"| C["Interactive UI Layer"];
 
-    classDef frontend fill:#0d1117,stroke:#58a6ff,stroke-width:2px,color:#fff;
-    classDef backend fill:#161b22,stroke:#d2a8ff,stroke-width:2px,color:#fff;
-    classDef styling fill:#21262d,stroke:#79c0ff,stroke-width:1px,color:#fff;
-    class A,B,C frontend;
-    class D styling;
-    class E,F backend;
+    style A fill:#120024,stroke:#d2a8ff,stroke-width:2px,color:#fff
+    style B fill:#1a0036,stroke:#d2a8ff,stroke-width:2px,color:#fff
+    style C fill:#24004d,stroke:#d2a8ff,stroke-width:1px,color:#fff
 ```
 
 <br/>
@@ -57,8 +57,6 @@ Cloths-Landing-page/
   index.html
   package-lock.json
   package.json
-  postcss.config.js
-  tailwind.config.js
   public/
     vite.svg
   src/
@@ -78,27 +76,32 @@ Cloths-Landing-page/
 | **Project Category** | `Web Application` |
 | **Total Source Files** | `24` |
 | **Frameworks** | `Vite`, `React`, `TailwindCSS` |
-| **Key Dependencies** | `@eslint/js` | `@headlessui/react` | `eslint-plugin-react-hooks` | `globals` | `vite` | `@types/react-dom` | `react-icons` | `eslint` | `autoprefixer` | `postcss` | `react-dom` | `lucide-react` | `@tailwindcss/postcss` | `@types/react` | `framer-motion` |
-| **Intellectual Property** | `Strictly Proprietary` |
+| **IP Status** | `Strictly Proprietary` |
 
-<br/>
+## Dependencies
 
-## STRICT LEGAL WARNING & LICENSE
+<p align="left">
+  <code>@eslint/js</code>  <code>@headlessui/react</code>  <code>eslint-plugin-react-hooks</code>  <code>globals</code>  <code>vite</code>  <code>@types/react-dom</code>  <code>react-icons</code>  <code>eslint</code>  <code>autoprefixer</code>  <code>postcss</code>  <code>react-dom</code>  <code>lucide-react</code>  <code>@tailwindcss/postcss</code>  <code>@types/react</code>  <code>framer-motion</code>
+</p>
+
+
+## STRICT LEGAL WARNING
 
 > **PROPRIETARY AND CONFIDENTIAL**
 
-This software and all associated documentation are the **exclusive property of Karthik Idikuda**.
+This software is the **exclusive property of Karthik Idikuda**.
 
-- **NO PERMISSION IS GRANTED** to use, copy, modify, merge, publish, distribute, sublicense, or sell copies of this software without explicit, written consent from the author.
-- **UNAUTHORIZED USE WILL RESULT IN SEVERE LEGAL ACTION.** Any individual or organization found using, referencing, or deploying this code without paying the required licensing fees will face immediate litigation, financial penalties, and potentially criminal prosecution where applicable by law.
-- **TO OBTAIN A LEGAL LICENSE**, you must directly contact Karthik Idikuda to negotiate payment terms.
+- **NO PERMISSION** to use, copy, modify, or distribute without written consent.
+- **UNAUTHORIZED USE** results in litigation, financial penalties, and criminal prosecution.
+- **LICENSING:** Contact Karthik Idikuda directly to negotiate terms.
 
-*By accessing this repository, you acknowledge and accept these strict proprietary terms.*
+*By viewing this repository, you accept these proprietary terms.*
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=18&pause=1000&color=D2A8FF&center=true&vCenter=true&width=535&lines=Engineered+by+Karthik+Idikuda;Web+Application+Architecture;Strict+Proprietary+License" alt="Typing SVG" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=18&pause=1000&color=D2A8FF&center=true&vCenter=true&width=535&lines=Engineered+by+Karthik+Idikuda;Strictly+Proprietary+Technology;Unauthorized+Use+Prohibited" alt="Typing SVG" />
 </div>
 
-<!-- TRACKING: S0ktQ2xvdGhzLUxhbmRpbmctcGFnZS1UUkFDSw== -->
+<!-- WATERMARK: S0ktUFJPUFJJRVRBUlktQ2xvdGhzLUxhbmRpbmctcGFnZS0yMDI2 -->
